@@ -14,7 +14,7 @@ const Hero = () => {
             We do it all.
           </p>
           <Typed
-            className="md:text-3xl sm:text-2xl tex-xl font-bold"
+            className="md:text-3xl sm:text-2xl tex-xl font-bold text-[#878787]"
             strings={[
               "television commercials",
               "online advertisements",
